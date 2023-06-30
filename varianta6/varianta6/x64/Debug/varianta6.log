@@ -1,0 +1,4 @@
+﻿  varianta6.cpp
+C:\Mycode\C++\Variante2009\varianta6\varianta6\back.h(20,23): warning C4018: '<': signed/unsigned mismatch
+C:\Mycode\C++\Variante2009\varianta6\varianta6\back.h(34,27): warning C4018: '<': signed/unsigned mismatch
+  varianta6.vcxproj -> C:\Mycode\C++\Variante2009\varianta6\x64\Debug\varianta6.exe
