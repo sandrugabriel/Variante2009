@@ -1,0 +1,5 @@
+﻿  varianta5.cpp
+C:\Mycode\C++\Variante2009\varianta5\varianta5\back.h(20,23): warning C4018: '<': signed/unsigned mismatch
+C:\Mycode\C++\Variante2009\varianta5\varianta5\back.h(34,27): warning C4018: '<': signed/unsigned mismatch
+C:\Mycode\C++\Variante2009\varianta5\varianta5\solutii.h(43,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  varianta5.vcxproj -> C:\Mycode\C++\Variante2009\varianta5\x64\Debug\varianta5.exe
