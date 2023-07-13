@@ -1,0 +1,5 @@
+﻿  varianta16.cpp
+C:\Mycode\C++\Variante2009\varianta16\varianta16\back.h(22,23): warning C4018: '<': signed/unsigned mismatch
+C:\Mycode\C++\Variante2009\varianta16\varianta16\back.h(41,27): warning C4018: '<': signed/unsigned mismatch
+C:\Mycode\C++\Variante2009\varianta16\varianta16\solutii.h(20,4): warning C4101: 'x': unreferenced local variable
+  varianta16.vcxproj -> C:\Mycode\C++\Variante2009\varianta16\x64\Debug\varianta16.exe

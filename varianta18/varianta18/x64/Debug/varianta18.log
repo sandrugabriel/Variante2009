@@ -1,0 +1,4 @@
+﻿  varianta18.cpp
+C:\Mycode\C++\Variante2009\varianta18\varianta18\solutii.h(19,6): warning C4101: 'i': unreferenced local variable
+C:\Mycode\C++\Variante2009\varianta18\varianta18\solutii.h(82,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  varianta18.vcxproj -> C:\Mycode\C++\Variante2009\varianta18\x64\Debug\varianta18.exe
