@@ -1,0 +1,7 @@
+﻿  varianta19.cpp
+C:\Mycode\C++\Variante2009\varianta19\varianta19\functii.h(72,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Mycode\C++\Variante2009\varianta19\varianta19\functii.h(78,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Mycode\C++\Variante2009\varianta19\varianta19\back.h(15,23): warning C4018: '<': signed/unsigned mismatch
+C:\Mycode\C++\Variante2009\varianta19\varianta19\back.h(35,27): warning C4018: '<': signed/unsigned mismatch
+C:\Mycode\C++\Variante2009\varianta19\varianta19\solutii.h(81,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  varianta19.vcxproj -> C:\Mycode\C++\Variante2009\varianta19\x64\Debug\varianta19.exe
