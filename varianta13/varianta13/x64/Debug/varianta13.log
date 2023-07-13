@@ -1,0 +1,3 @@
+﻿  varianta13.cpp
+C:\Mycode\C++\Variante2009\varianta13\varianta13\functii.h(57,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  varianta13.vcxproj -> C:\Mycode\C++\Variante2009\varianta13\x64\Debug\varianta13.exe
