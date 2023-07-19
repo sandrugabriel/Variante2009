@@ -1,0 +1,4 @@
+﻿  varianta24.cpp
+C:\Mycode\C++\Variante2009\varianta24\varianta24\functii.h(16,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Mycode\C++\Variante2009\varianta24\varianta24\functii.h(17,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  varianta24.vcxproj -> C:\Mycode\C++\Variante2009\varianta24\x64\Debug\varianta24.exe

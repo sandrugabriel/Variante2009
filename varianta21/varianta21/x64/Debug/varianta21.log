@@ -1,0 +1,4 @@
+﻿  varianta21.cpp
+C:\Mycode\C++\Variante2009\varianta21\varianta21\functi.h(82,47): warning C4101: 'p': unreferenced local variable
+C:\Mycode\C++\Variante2009\varianta21\varianta21\functi.h(82,44): warning C4101: 'y': unreferenced local variable
+  varianta21.vcxproj -> C:\Mycode\C++\Variante2009\varianta21\x64\Debug\varianta21.exe
