@@ -1,0 +1,4 @@
+﻿  varianta25.cpp
+C:\Mycode\C++\Variante2009\varianta25\varianta25\functii.h(17,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Mycode\C++\Variante2009\varianta25\varianta25\functii.h(136,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  varianta25.vcxproj -> C:\Mycode\C++\Variante2009\varianta25\x64\Debug\varianta25.exe
