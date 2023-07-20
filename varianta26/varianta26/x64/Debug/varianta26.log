@@ -1,0 +1,4 @@
+﻿  varianta26.cpp
+C:\Mycode\C++\Variante2009\varianta26\varianta26\backing.h(28,27): warning C4018: '<': signed/unsigned mismatch
+C:\Mycode\C++\Variante2009\varianta26\varianta26\backing.h(21): warning C4715: 'verificare': not all control paths return a value
+  varianta26.vcxproj -> C:\Mycode\C++\Variante2009\varianta26\x64\Debug\varianta26.exe
