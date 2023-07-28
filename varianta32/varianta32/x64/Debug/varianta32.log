@@ -1,0 +1,3 @@
+﻿  varianta32.cpp
+C:\Mycode\C++\Variante2009\varianta32\varianta32\functii.h(77): warning C4715: 'nr_prim': not all control paths return a value
+  varianta32.vcxproj -> C:\Mycode\C++\Variante2009\varianta32\x64\Debug\varianta32.exe
