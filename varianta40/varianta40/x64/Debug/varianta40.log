@@ -1,0 +1,5 @@
+﻿  varianta40.cpp
+C:\Mycode\C++\Variante2009\varianta40\varianta40\functii.h(24,16): warning C4305: '=': truncation from 'int' to 'char'
+C:\Mycode\C++\Variante2009\varianta40\varianta40\functii.h(24,16): warning C4309: '=': truncation of constant value
+C:\Mycode\C++\Variante2009\varianta40\varianta40\functii.h(18,11): warning C4101: 'p': unreferenced local variable
+  varianta40.vcxproj -> C:\Mycode\C++\Variante2009\varianta40\x64\Debug\varianta40.exe
