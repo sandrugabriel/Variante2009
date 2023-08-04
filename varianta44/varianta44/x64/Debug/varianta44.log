@@ -1,0 +1,3 @@
+﻿  varianta44.cpp
+C:\Mycode\C++\Variante2009\varianta44\varianta44\functii.h(68,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  varianta44.vcxproj -> C:\Mycode\C++\Variante2009\varianta44\x64\Debug\varianta44.exe

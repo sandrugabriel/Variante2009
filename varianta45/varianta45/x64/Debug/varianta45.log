@@ -1,0 +1,9 @@
+﻿  varianta45.cpp
+C:\Mycode\C++\Variante2009\varianta45\varianta45\functii.h(19,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Mycode\C++\Variante2009\varianta45\varianta45\solutii.h(50,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Mycode\C++\Variante2009\varianta45\varianta45\solutii.h(50,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Mycode\C++\Variante2009\varianta45\varianta45\solutii.h(50,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Mycode\C++\Variante2009\varianta45\varianta45\solutii.h(50,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Mycode\C++\Variante2009\varianta45\varianta45\solutii.h(50,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Mycode\C++\Variante2009\varianta45\varianta45\solutii.h(50,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+  varianta45.vcxproj -> C:\Mycode\C++\Variante2009\varianta45\x64\Debug\varianta45.exe
