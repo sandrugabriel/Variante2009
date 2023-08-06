@@ -1,0 +1,5 @@
+﻿  varianta46.cpp
+C:\Mycode\C++\Variante2009\varianta46\varianta46\functii.h(21,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Mycode\C++\Variante2009\varianta46\varianta46\backing.h(27,27): warning C4018: '<': signed/unsigned mismatch
+C:\Mycode\C++\Variante2009\varianta46\varianta46\backing.h(20): warning C4715: 'verificare': not all control paths return a value
+  varianta46.vcxproj -> C:\Mycode\C++\Variante2009\varianta46\x64\Debug\varianta46.exe
