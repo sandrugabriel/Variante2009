@@ -1,0 +1,4 @@
+﻿  varianta52.cpp
+C:\Mycode\C++\Variante2009\varianta52\varianta52\functii.h(34,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Mycode\C++\Variante2009\varianta52\varianta52\solutii.h(24,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  varianta52.vcxproj -> C:\Mycode\C++\Variante2009\varianta52\x64\Debug\varianta52.exe
