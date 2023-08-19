@@ -1,0 +1,4 @@
+﻿  varianta61.cpp
+C:\Mycode\C++\Variante2009\varianta61\varianta61\solutii.h(72,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Mycode\C++\Variante2009\varianta61\varianta61\solutii.h(72,9): warning C4305: 'argument': truncation from 'double' to 'float'
+  varianta61.vcxproj -> C:\Mycode\C++\Variante2009\varianta61\x64\Debug\varianta61.exe
