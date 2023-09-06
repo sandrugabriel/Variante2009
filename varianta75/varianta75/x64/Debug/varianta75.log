@@ -1,0 +1,3 @@
+﻿  varianta75.cpp
+C:\Mycode\C++\Variante2009\varianta75\varianta75\functii.h(80): warning C4715: 'ultimacifra': not all control paths return a value
+  varianta75.vcxproj -> C:\Mycode\C++\Variante2009\varianta75\x64\Debug\varianta75.exe

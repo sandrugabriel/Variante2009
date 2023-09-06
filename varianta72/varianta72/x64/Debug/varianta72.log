@@ -1,0 +1,6 @@
+﻿  varianta72.cpp
+C:\Mycode\C++\Variante2009\varianta72\varianta72\functii.h(68,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Mycode\C++\Variante2009\varianta72\varianta72\functii.h(75,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Mycode\C++\Variante2009\varianta72\varianta72\functii.h(76,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Mycode\C++\Variante2009\varianta72\varianta72\functii.h(96,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  varianta72.vcxproj -> C:\Mycode\C++\Variante2009\varianta72\x64\Debug\varianta72.exe
