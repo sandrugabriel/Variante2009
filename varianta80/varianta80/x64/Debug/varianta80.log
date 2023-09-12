@@ -1,0 +1,3 @@
+﻿  varianta80.cpp
+C:\Mycode\C++\Variante2009\varianta80\varianta80\functii.h(20,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  varianta80.vcxproj -> C:\Mycode\C++\Variante2009\varianta80\x64\Debug\varianta80.exe
