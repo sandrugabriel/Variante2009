@@ -1,0 +1,7 @@
+﻿  varianta79.cpp
+C:\Mycode\C++\Variante2009\varianta79\varianta79\functii.h(17,27): warning C4101: 'aux': unreferenced local variable
+C:\Mycode\C++\Variante2009\varianta79\varianta79\functii.h(40,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Mycode\C++\Variante2009\varianta79\varianta79\functii.h(41,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Mycode\C++\Variante2009\varianta79\varianta79\solutii.h(71,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Mycode\C++\Variante2009\varianta79\varianta79\solutii.h(71,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  varianta79.vcxproj -> C:\Mycode\C++\Variante2009\varianta79\x64\Debug\varianta79.exe
