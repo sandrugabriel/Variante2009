@@ -1,0 +1,4 @@
+﻿  varianta95.cpp
+C:\Mycode\C++\Variante2009\varianta95\varianta95\functii.h(23,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Mycode\C++\Variante2009\varianta95\varianta95\functii.h(23,9): warning C4101: 'i': unreferenced local variable
+  varianta95.vcxproj -> C:\Mycode\C++\Variante2009\varianta95\x64\Debug\varianta95.exe

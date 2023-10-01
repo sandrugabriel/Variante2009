@@ -1,0 +1,4 @@
+﻿  varianta92.cpp
+C:\Mycode\C++\Variante2009\varianta92\varianta92\solutii.h(70,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Mycode\C++\Variante2009\varianta92\varianta92\solutii.h(70,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  varianta92.vcxproj -> C:\Mycode\C++\Variante2009\varianta92\x64\Debug\varianta92.exe

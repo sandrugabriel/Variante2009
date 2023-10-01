@@ -1,0 +1,3 @@
+﻿  varianta93.cpp
+C:\Mycode\C++\Variante2009\varianta93\varianta93\functii.h(23,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  varianta93.vcxproj -> C:\Mycode\C++\Variante2009\varianta93\x64\Debug\varianta93.exe
